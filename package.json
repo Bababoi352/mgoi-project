@@ -1,0 +1,2 @@
+{"name":"mgoi-project","private":true,"version":"0.1.0","type":"module","scripts":{"dev":"node server.mjs","start":"node server.mjs","check":"node --check app.js && node --check data.js && node --check media.js && node --check server.mjs"}}
+
